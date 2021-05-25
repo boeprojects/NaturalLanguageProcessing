@@ -2,10 +2,17 @@
 
 ## Logistische Regression mit Textdaten und positiv - negativ Aussagen (binär)
 
+
+Typische Datenverteilung einer logistischen Regression
+
+![logisitcRegression_01](https://user-images.githubusercontent.com/67191365/119567505-b2663780-bdac-11eb-83f7-0375074ca6da.PNG)
+
+Es handelt sich um stetige Werte/Datenpunkte. Diese liegen alle zwischen 0 und 1 in beliebiger Größe (float) und entsprechend verteilt auf x-Achse ud y-Achse
+[stetige intervallbezogene messbare Werte im Unterschied zu ganzzahligen diskreten Werten]
+
 ### Teil 1: 
 - Scrapen von Newsfeed Headlines (feedparser) als Data Generation abgelegt in einer Datenbank
 - Datenbank Connection (open, close) und Laden der Daten zum Preprocessing
-
 
 
 Imports für Feedparser und anwendung sqlite3
