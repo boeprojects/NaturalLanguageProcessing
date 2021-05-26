@@ -14,7 +14,9 @@ Es handelt sich um stetige Werte/Datenpunkte. Diese liegen alle zwischen 0 und 1
  - die abhängige Variable hat nur 2 Ausprägungen, z.B. 0,1
  - Ziel ist Schätzen der Eintrittswahrscheinlichkeit dieser abhängigen Variablen in Abhängigkeit von einer oder mehreren unabhängigen Variablen
 
-
+### das Vorhaben/Projekt
+- multiple Datenquellen zu Schlagzeilen einzelner Online-Zeitungsseiten in einer Datenbank sukkzessive zusammengestellt
+- Auswertung mit Sentimentanalyse, Verteilung und Häufigkeit der Daten, klassiche Datenpipeline
 
 ### Teil 1: 
 - Scrapen von Newsfeed Headlines (feedparser) als Data Generation abgelegt in einer Datenbank
