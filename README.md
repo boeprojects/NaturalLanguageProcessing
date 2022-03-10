@@ -1,6 +1,6 @@
 # NaturalLanguageProcessing
 
-## Logistische Regression mit Textdaten und positiv - negativ Aussagen (binär)
+## Logistische Regression mit Textdaten und positiv - negativ Aussagen (binär) zur Sentimentanalyse
 
 
 Typische Datenverteilung einer logistischen Regression
